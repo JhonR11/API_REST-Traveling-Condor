@@ -1,0 +1,6 @@
+@API_RESTCV_HostAddress = http://localhost:5285
+
+GET {{API_RESTCV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

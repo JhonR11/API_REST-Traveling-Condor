@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eXyjOUMdr9Qw4KM2JUbGDuBIo7fcMBWKNGejue3PQM8=",
+  "Source": "API_RESTCV",
+  "BasePath": "_content/API_RESTCV",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

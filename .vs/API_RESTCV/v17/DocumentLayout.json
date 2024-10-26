@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\seeding\\seedinginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:seeding\\seedinginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\dtos\\usuariocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:dtos\\usuariocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\dtos\\usariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:dtos\\usariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\migrations\\20240602043326_administradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:migrations\\20240602043326_administradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\migrations\\20240601232918_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:migrations\\20240601232918_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\dtos\\rutarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:dtos\\rutarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\dtos\\rutaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:dtos\\rutaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|c:\\users\\57304\\source\\repos\\api_restcv\\dtos\\rutacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E5FB6-9800-4CCF-92A9-7BF3431E7416}|API_RESTCV.csproj|solutionrelative:dtos\\rutacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "DTOs\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:29:58.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\UsuarioCreacionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuarioCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\UsuarioCreacionDTO.cs",
+              "RelativeToolTip": "DTOs\\UsuarioCreacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:29:55.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\ENTITY\\Usuario.cs",
+              "RelativeDocumentMoniker": "ENTITY\\Usuario.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\ENTITY\\Usuario.cs",
+              "RelativeToolTip": "ENTITY\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:29:33.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:13:14.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RutaCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\RutaCreacionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RutaCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\RutaCreacionDTO.cs",
+              "RelativeToolTip": "DTOs\\RutaCreacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:37:34.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RutaUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\RutaUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RutaUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\RutaUpdateDTO.cs",
+              "RelativeToolTip": "DTOs\\RutaUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:37:33.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedingInicial.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Seeding\\SeedingInicial.cs",
+              "RelativeDocumentMoniker": "Seeding\\SeedingInicial.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Seeding\\SeedingInicial.cs",
+              "RelativeToolTip": "Seeding\\SeedingInicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:36:04.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240601232918_new.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Migrations\\20240601232918_new.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240601232918_new.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Migrations\\20240601232918_new.cs",
+              "RelativeToolTip": "Migrations\\20240601232918_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:02:53.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RutaRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\RutaRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RutaRequestDTO.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\RutaRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\RutaRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:37:31.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsarioLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\UsarioLoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsarioLoginDTO.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\DTOs\\UsarioLoginDTO.cs",
+              "RelativeToolTip": "DTOs\\UsarioLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:10:50.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:09:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240602043326_administradores.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Migrations\\20240602043326_administradores.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240602043326_administradores.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\Migrations\\20240602043326_administradores.cs",
+              "RelativeToolTip": "Migrations\\20240602043326_administradores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:03:43.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\57304\\source\\repos\\API_RESTCV\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:30:41.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
